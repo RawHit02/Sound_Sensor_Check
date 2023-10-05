@@ -16,7 +16,7 @@ Other components...
 Software Requirements
 
   
-# java Code
+# c++ Code
 int sensor = 2; // Connected to digital output of KY-038 sound sensor module
 int led = 13; // Connected to postive of led
 boolean is_on = false; //To determine/track if led is on or off
