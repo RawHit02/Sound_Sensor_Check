@@ -6,6 +6,10 @@ It is just random thought to check whether the sound sensor working or not
 # check out demo
 https://drive.google.com/file/d/1hrtuT4pZKdALKrDZjIC9E1IQZdTzZyHU/view?usp=sharing
 
+![image](https://github.com/RawHit02/Sound_Sensor_Check/assets/107709247/c4af19f7-8039-4468-9022-556e7f5e6c06)
+![image](https://github.com/RawHit02/Sound_Sensor_Check/assets/107709247/fc1cba1b-f54b-42fd-af5e-763b2878cba7)
+![image](https://github.com/RawHit02/Sound_Sensor_Check/assets/107709247/190c761c-bd83-4092-b74b-1f8de0d17cdf)
+
 
 
 # Hardware Components
