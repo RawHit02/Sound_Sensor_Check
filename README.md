@@ -1,7 +1,10 @@
 # Sound_Sensor_Check
 
 # Overview
-https://github.com/RawHit02/Radar_System-IOT-/assets/107709247/2763e295-169b-4f15-b7e8-b06037a81043
+
+https://github.com/RawHit02/Sound_Sensor_Check/assets/107709247/0fcfef9f-5c39-4cfb-820c-e1d1f758f7be
+
+
 
 # check out demo
 https://drive.google.com/file/d/1hrtuT4pZKdALKrDZjIC9E1IQZdTzZyHU/view?usp=sharing
