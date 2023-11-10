@@ -3,11 +3,7 @@
 # Overview
 
 https://github.com/RawHit02/Sound_Sensor_Check/assets/107709247/0fcfef9f-5c39-4cfb-820c-e1d1f758f7be
-
-
-
-# check out demo
-https://drive.google.com/file/d/1hrtuT4pZKdALKrDZjIC9E1IQZdTzZyHU/view?usp=sharing
+_________________________________________________________________________________________________________________________________________________________________________________________
 
 ![image](https://github.com/RawHit02/Sound_Sensor_Check/assets/107709247/c4af19f7-8039-4468-9022-556e7f5e6c06)
 ![image](https://github.com/RawHit02/Sound_Sensor_Check/assets/107709247/fc1cba1b-f54b-42fd-af5e-763b2878cba7)
