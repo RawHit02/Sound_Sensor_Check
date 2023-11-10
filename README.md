@@ -1,7 +1,7 @@
 # Sound_Sensor_Check
 
-Overview
-It is just random thought to check whether the sound sensor working or not 
+# Overview
+https://github.com/RawHit02/Radar_System-IOT-/assets/107709247/2763e295-169b-4f15-b7e8-b06037a81043
 
 # check out demo
 https://drive.google.com/file/d/1hrtuT4pZKdALKrDZjIC9E1IQZdTzZyHU/view?usp=sharing
